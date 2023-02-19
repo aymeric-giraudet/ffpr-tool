@@ -22,7 +22,7 @@
   },
   "pkg": {
     "targets": [
-      "node14-windows-x64"
+      "node14-linux-x64"
     ],
     "outputPath": "dist/bin"
   },
